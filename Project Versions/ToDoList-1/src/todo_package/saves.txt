@@ -1,0 +1,3 @@
+list: General - [T1 | due: none | do: none | importance: 1 | workload: 4] ; [T2 | due: 04/22/2022 | do: 04/01/2022 | importance: 3 | workload: 2] ; [T3 | due: none | do: none | importance: 4 | workload: 2] ; [T4 | due: none | do: none | importance: 3 | workload: 4]
+list: L1 - [T2 | due: 04/22/2022 | do: 04/01/2022 | importance: 3 | workload: 2]
+list: L2 - [T4 | due: none | do: none | importance: 3 | workload: 4]

@@ -1,0 +1,7 @@
+General,First Year Book Response,04/14/2021,null,2,2,false;Position Paper Draft,04/20/2021,null,4,3,true;temporary,null,null,2,1,false;
+Weekly,
+ENGL101,
+ECON200,
+CMSC131,temporary,null,null,2,1,false;
+MATH140,
+L1,
